@@ -22,7 +22,7 @@ Feel free to see the example and play around with the files
 1. Clone this repo
 
    ```bash
-   git clone https://github.com/Salweyar/react-native_productApp.git
+   git clone https://github.com/Salweyar/auth-passportjs.git
    ```
 
 2. Install dependencies
