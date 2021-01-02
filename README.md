@@ -32,7 +32,16 @@ Feel free to see the example and play around with the files
    npm install
    ```
    
-3. start the development server
+3. Create the key.js file in config folder and paste the code
+
+   ```bash
+   module.exports = {
+   MongoURI:
+    "Paste the link here from mongoDB", i.e mongodb+srv://kay:myRealPassword@cluster0.mongodb.net/test?w=majority
+   };
+   ```
+
+4. start the development server
 
    ```bash
    node app.js
